@@ -1,2 +1,2 @@
-# Frontend-Project
+# PatikaDev Project
 Simple Projects
