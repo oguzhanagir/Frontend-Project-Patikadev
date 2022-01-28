@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+}
+
+.navbar ul li{
+    list-style-position: inside;
+}
+
+.content{
+    text-align: center;
+    
+}
+.content ul li,ol{
+    list-style-position: inside;
+}
+
+
+
+.products-list li img{
+    width: 300px;
+    height: 300px;
+}
